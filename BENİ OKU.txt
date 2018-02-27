@@ -1,0 +1,8 @@
+Python ile kodladýðým bir yazýlým , Linux üzerinde çalýþýyor 
+
+Eðer birisi sizin aðý dinliyorsa(sniffing)
+
+- Bu kodla ona mesaj gönderebilirsiniz þaþýrtmak için
+
+- veya Arkadaþýnýzla ayný að (LAN) baðlanýp birbirinizle chatleþebilirsiniz
+
